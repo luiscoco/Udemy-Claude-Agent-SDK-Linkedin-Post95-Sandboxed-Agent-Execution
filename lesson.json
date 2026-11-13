@@ -1,0 +1,16 @@
+{
+  "lesson": 94,
+  "title": "Sandboxed Agent Execution",
+  "application": "Contained Fixture Execution",
+  "purpose": "Scope agent reads to a copied fixture and provide an optional network-disabled, read-only container command for the offline example.",
+  "exercise": "Try filename ../outside.txt and confirm rejection. Optionally run the offline Docker command with --network none and a read-only filesystem.",
+  "source_topics": [
+    "00-Arquitectura de ejecución segura en sandbox.png",
+    "01-Why-Sandbox-Agent-Execution.png",
+    "02-Layers-of-Isolation.png",
+    "03-The-Sandboxed-Execution-Lifecycle.png",
+    "04-Scope-the-Agent-Inside-the-Sandbox.png",
+    "05-Choose-the-Isolation-Level.png",
+    "06-Pitfalls-and-Safe-Results.png"
+  ]
+}

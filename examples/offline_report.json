@@ -1,0 +1,12 @@
+{
+  "lesson": 94,
+  "application": "Contained Fixture Execution",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "target": "data/input.json",
+    "answer": "The application restricts its read target. Actual process isolation comes from the separately invoked container.",
+    "container_started_by_app": false
+  },
+  "measured_cost_usd": null
+}
